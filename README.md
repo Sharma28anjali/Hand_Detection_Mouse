@@ -13,7 +13,8 @@ A virtual mouse system powered by hand gestures using **Python**, **MediaPipe**,
 
 > ✋ Point, click, and scroll — all without touching your mouse!
 
-*(Add a GIF or screenshot here if available)*
+![image](https://github.com/user-attachments/assets/435b6ba9-2ef3-4d97-8452-fba8b6715b62)
+
 
 ## 🛠️ Technologies Used
 
