@@ -26,3 +26,6 @@ A virtual mouse system powered by hand gestures using **Python**, **MediaPipe**,
 
 
 
+
+
+
