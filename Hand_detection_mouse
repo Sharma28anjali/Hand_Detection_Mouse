@@ -64,7 +64,7 @@ while cap.isOpened():
 
           
             if click_dist < 0.05:
-                pyautogui.click()q
+                pyautogui.click()
                 cv2.putText(image, 'Left Click', (x + 20, y - 20),
                             cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
