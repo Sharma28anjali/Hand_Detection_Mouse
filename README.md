@@ -25,6 +25,17 @@ A virtual mouse system powered by hand gestures using **Python**, **MediaPipe**,
 - **PyAutoGUI** - For controlling the mouse on screen
 
 
+### Step-by-Step
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/hand-detection-mouse.git
+cd hand-detection-mouse
+pip install opencv-python mediapipe pyautogui numpy
+python hand_mouse.py
+hand-detection-mouse/
+├── hand_mouse.py        # Main application script
+└── README.md            # Project documentation
 
 
 
